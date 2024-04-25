@@ -1,4 +1,4 @@
-package com.example.oblig3data1700;
+package com.example.demooblig3;
 
 public class billett {
 
